@@ -1,0 +1,3 @@
+3. https://github.com/Bojana27/testBK.git
+(add README.md preko gita)
+$ git clone https://github.com/Bojana27/testBK.git
